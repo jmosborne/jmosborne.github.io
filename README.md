@@ -1,2 +1,2 @@
 # jmosborne.github.io
-CellMechBio website
+Website for Multicellular Systems Biology Group at the University of Melbourne 
