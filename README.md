@@ -1,7 +1,4 @@
-# jmosborne.github.io
-Website for Multicellular Systems Biology Group at the University of Melbourne 
-
-# Multicellular Systems Biology Group </h1>
+# Multicellular Systems Biology Group
 This repo hosts Chaste Projects related to the Multicellular Systems Biology Group at the University of Melbourne.
 
 ## [CellBasedNumericalMethods](https://github.com/jmosborne/CellBasedNumericalMethods)
