@@ -1,5 +1,5 @@
 # Multicellular Systems Biology Group
-This repo hosts [Chaste]{https://Chaste.github.io} Projects related to the [Multicellular Systems Biology Group](https://osborne-group.science.unimelb.edu.au/) at the University of Melbourne.
+This repo hosts [Chaste](https://Chaste.github.io) Projects related to the [Multicellular Systems Biology Group](https://osborne-group.science.unimelb.edu.au/) at the University of Melbourne.
 
 ## [CellBasedNumericalMethods](https://github.com/jmosborne/CellBasedNumericalMethods)
 Code for J.M. Osborne "An adaptive numerical method for multi-cellular simulations of organ development and disease" [https://www.biorxiv.org/content/10.1101/2024.01.06.574290v1](https://www.biorxiv.org/content/10.1101/2024.01.06.574290v1)
